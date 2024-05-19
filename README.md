@@ -1,0 +1,2 @@
+# schoolDev
+school management project.
